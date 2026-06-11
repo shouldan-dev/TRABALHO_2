@@ -1,0 +1,75 @@
+# 🔴⚫ Clube de Regatas do Flamengo
+
+![Flamengo](https://img.shields.io/badge/Time-Flamengo-red?style=for-the-badge&logo=github)
+
+## 📖 Sobre
+
+O **Clube de Regatas do Flamengo**, fundado em **17 de novembro de 1895**, é um dos maiores clubes esportivos do Brasil e uma das equipes de futebol mais populares do mundo. Com sede no Rio de Janeiro, o Flamengo possui uma trajetória marcada por títulos, ídolos históricos e uma torcida apaixonada.
+
+---
+
+## 🏆 Principais Conquistas
+
+| Competição | Destaques |
+|------------|------------|
+| 🏆 Copa Libertadores | Múltiplos títulos continentais |
+| 🇧🇷 Campeonato Brasileiro | Diversas conquistas nacionais |
+| 🏅 Copa do Brasil | Presença constante entre os grandes |
+| 🌎 Mundial Interclubes | Campeão em 1981 |
+| 🏆 Campeonato Carioca | Um dos maiores vencedores |
+
+---
+
+## ⭐ Grandes Ídolos
+
+- 👑 Zico
+- ⚽ Júnior
+- 🛡️ Leandro
+- 💪 Adriano Imperador
+- 🎯 Gabigol
+- 🎩 Arrascaeta
+
+---
+
+## 👥 Torcida
+
+O Flamengo possui uma das maiores torcidas do planeta, reunindo milhões de apaixonados em todos os estados brasileiros e em diversos países.
+
+> **"Uma vez Flamengo, sempre Flamengo."**
+
+---
+
+## 🏟️ Estádio
+
+O clube manda seus principais jogos no **Maracanã**, um dos estádios mais emblemáticos da história do futebol mundial.
+
+---
+
+## 📊 Informações Rápidas
+
+| Item | Informação |
+|--------|------------|
+| 📍 Cidade | Rio de Janeiro - RJ |
+| 📅 Fundação | 17/11/1895 |
+| 🎨 Cores | Vermelho e Preto |
+| 🦅 Mascote | Urubu |
+| 🌎 País | Brasil |
+
+---
+
+## ❤️ Nação Rubro-Negra
+
+```txt
+███████╗██╗      █████╗ ███╗   ███╗███████╗███╗   ██╗ ██████╗  ██████╗
+██╔════╝██║     ██╔══██╗████╗ ████║██╔════╝████╗  ██║██╔════╝ ██╔═══██╗
+█████╗  ██║     ███████║██╔████╔██║█████╗  ██╔██╗ ██║██║  ███╗██║   ██║
+██╔══╝  ██║     ██╔══██║██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║   ██║██║   ██║
+██║     ███████╗██║  ██║██║ ╚═╝ ██║███████╗██║ ╚████║╚██████╔╝╚██████╔╝
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝
+```
+
+---
+
+### 🔗 Motto
+
+**"Uma vez Flamengo, sempre Flamengo."**
